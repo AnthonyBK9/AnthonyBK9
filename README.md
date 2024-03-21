@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnthonyBK9
 - 👀 I’m interested in videogames, develop websites, create animations.
-- 🌱 I’m a web developer with experience in the following technologies, HTML, CSS, SASS, JavaScript, React, Redux, REST API, Bootstrap, Tailwind CSS, Material UI,    Github, NodeJS, Express, Sequelize, MySQL, PostgreSQL, MongoDB, achieving my goals to satisfy the client.
+- 🌱 I’m a web developer with experience in the following technologies, HTML, CSS, SASS, JavaScript, TypeScript,React, Redux, REST API, Bootstrap, Tailwind CSS, Github, NodeJS, Express, MySQL, PostgreSQL, SQL Server achieving my goals to satisfy the client.
 - 💞️ I’m looking to collaborate in a development company.
 - 📫 How to reach me by email antonio.bermudez.ing@gmail.com
 
